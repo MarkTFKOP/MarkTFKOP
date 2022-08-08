@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Mark Philip Pereira 
      Github ID@MarkTFKOP
-- 👀 I’m interested in .ReactJS.
-- 🌱 I’m currently learning ReactJS.
+- 👀 I pride myself with being a MERN stack developer.
+- 🌱 Love to learn new things, reading new blogs etc.
+- 🌱 Current CodeChef score(784), highest(1099).
 - 📫 How to reach me : www.linkedin.com/in/mark-philip-pereira
 
 <!---
