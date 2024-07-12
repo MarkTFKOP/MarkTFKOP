@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mark Philip Pereira 
      Github ID@MarkTFKOP
-- 👀 I pride myself with being a MERN stack developer.
+- 👀 I pride myself with being a Software Engineer, aiming to become a Web Architect.
 - 👀 Talk to me about Backend development.
 - 🌱 In Love with node.js and javascript.
 - 🌱 Goal to Learn all things about the Internet.
